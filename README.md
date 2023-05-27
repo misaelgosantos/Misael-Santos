@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on [NoteColors](https://play.google.com/store/apps/details?id=com.noteColors)
 
-- 📫 How to reach me misaelgt21@hotmail.com
+- 📫 How to reach me misaelseuda@gmail.com
 
 <!---
 MisaelSeuda/MisaelSeuda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
