@@ -2,11 +2,11 @@
 
 - 👀 I’m interested in Frontend Development — my main skill is Flutter
 
-- 💼 Currently working on a public transportation app called Cadê o Busão?, available on Web, Google Play, and Apple Store
+- 💼 Currently developing apps like **Cadê o Busão?** and **Rondonópolis na Palma da Mão**, available on **Web**, **Google Play**, and **Apple App Store**.
 
 - 📫 How to reach me: misael.goncalves@rondonopolis.mt.gov.br
 
-## 🚀 My Stats on GitHub
+## 🚀 My Stats on Public GitHub
 
 <div align="center">
 
