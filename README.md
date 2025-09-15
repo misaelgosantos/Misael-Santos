@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: misael.goncalves@rondonopolis.mt.gov.br
 
-## 🚀 Minhas Estatísticas no GitHub
+## 🚀 My Stats on GitHub
 
 <div align="center">
 
