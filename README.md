@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MisaelSeuda
+- 👋 Hi, I’m Misael Santos
 
 - 👀 I’m interested in Frontend Development — my main skill is Flutter
 
