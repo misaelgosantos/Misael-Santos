@@ -6,14 +6,3 @@
 
 - 📫 How to reach me: misael.goncalves@rondonopolis.mt.gov.br
 
-## 🚀 My Stats on Public GitHub
-
-<div align="center">
-
-| GitHub Stats | Most Used Languages | Streak |
-|--------------|---------------------|--------|
-| <img height="150em" src="https://github-readme-stats.vercel.app/api?username=misaelgosantos&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/> | <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misaelgosantos&layout=compact&theme=radical"/> | <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=misaelgosantos&theme=radical"/> |
-
-</div>
-
-
