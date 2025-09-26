@@ -7,7 +7,7 @@
 - 📫 How to reach me: misael.goncalves@rondonopolis.mt.gov.br
 
 ---
-### 🧠 Programming languages     
+### 🧠 Frameworks & Languages  
 
 <img 
     align='left'
